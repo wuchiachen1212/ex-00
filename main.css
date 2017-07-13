@@ -11,7 +11,12 @@ th{color:white;font-weight:bold;background:rgba(124, 113, 113, 0.86)}
 Strong{color:white;font-weight:bold;background:rgb(255, 29, 0)}
 .exercise{;color:rgba(242, 234, 233, 0.73);font-size:1.2rem;font-weight:bold;}
 #chiachen{background-color: #b2cbc6;color:white;font-weight:bold}
-#address{background-color: rgba(16, 1, 1, 0.86);color:white}
+#address{background-color: rgba(16, 1, 1, 0.86);color:white;border-top-left-radius: 10px;
+  border-top-right-radius: 10px;border-collapse: separate;
+  border-spacing: 0;}
+table{border:4remrem;margin:0.3rem;margin-color:rgba(124, 113, 113, 0.86);padding:0.2rem;padding-color:white}
+
+
 a{color:white}
 hr{
     border: 0;
@@ -19,3 +24,4 @@ hr{
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
+h1{color:rgb(230, 239, 228);font:2rem;font-family:Microsoft JhengHei }
