@@ -13,11 +13,12 @@ Strong{color:white;font-weight:bold;background:rgb(255, 29, 0)}
 #chiachen{background-color: #b2cbc6;color:white;font-weight:bold}
 #address{background-color: rgba(16, 1, 1, 0.86);color:white;border-top-left-radius: 10px;
   border-top-right-radius: 10px;border-collapse: separate;
-  border-spacing: 0;}
+  border-spacing: 0;font-weight:bold}
 table{border:4remrem;margin:0.3rem;margin-color:rgba(124, 113, 113, 0.86);padding:0.2rem;padding-color:white}
 
 
-a{color:white}
+a{color:white;text-decoration:none}
+a:hover{color:#b2cbc6;text-decoration:underline}
 hr{
     border: 0;
     height: 0;
