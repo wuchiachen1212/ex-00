@@ -13,3 +13,9 @@ Strong{color:white;font-weight:bold;background:rgb(255, 29, 0)}
 #chiachen{background-color: #b2cbc6;color:white;font-weight:bold}
 #address{background-color: rgba(16, 1, 1, 0.86);color:white}
 a{color:white}
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
